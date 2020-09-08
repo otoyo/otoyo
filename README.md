@@ -8,8 +8,8 @@ Hiroki Toyokawa です。CRE として働いています。
 
 ## CRE
 
-* [CSをクリエイティブな職業に。2020年の目標](https://alpacat.hatenablog.com/entry/2020-goal)
-* [CREとして一緒に働く仲間を募集しています](https://alpacat.hatenablog.com/entry/recruitment-cre)
+* [CSをクリエイティブな職業に。2020年の目標](https://alpacat.hatenablog.com/entry/2020-goal?f=g)
+* [CREとして一緒に働く仲間を募集しています](https://alpacat.hatenablog.com/entry/recruitment-cre?f=g)
 
 ## OSS
 
@@ -18,4 +18,4 @@ Hiroki Toyokawa です。CRE として働いています。
 
 ## ブログ
 
-* [アルパカログ](https://alpacat.hatenablog.com/)
+* [アルパカログ](https://alpacat.hatenablog.com/?f=g)
