@@ -1,20 +1,10 @@
 # こんにちは
 
-Hiroki Toyokawa です。CRE として働いています。
+ソフトウェアエンジニア/Customer Reliability Engineer(CRE)/エンジニアリングマネージャーとして働いています。
 
-仕事柄、よく書くのは Ruby, Python, Elixir, Go です。OSS 活動も少ししています。
+プログラミング言語はRuby, Python, Elixir, Goを仕事柄よく書きます。少しですがOSS活動もしています。
 
-プログラミングやマネジメントの話題でブログを書いています。
-
-## CRE
-
-* [CSをクリエイティブな職業に。2020年の目標](https://alpacat.hatenablog.com/entry/2020-goal?f=g)
-* [CREとして一緒に働く仲間を募集しています](https://alpacat.hatenablog.com/entry/recruitment-cre?f=g)
-
-## OSS
-
-* [zen_ex](https://github.com/otoyo/zen_ex)
-* [cursor-paginate](https://github.com/otoyo/cursor-paginate)
+ブログを書くのが好きで、主にプログラミングやマネジメントの話題で毎週ブログを書いています。
 
 ## ブログ
 
