@@ -8,4 +8,4 @@
 
 ## ブログ
 
-* [アルパカログ](https://alpacat.hatenablog.com/?f=g)
+* [アルパカログ](https://alpacat.com/blog)
