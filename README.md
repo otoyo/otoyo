@@ -12,9 +12,9 @@ Writing a blog is my favorite. I would appresiate if you take a look my blog (Ja
 
 ## For Recruiter
 
-If you would like to conntact me for a job, please select the following services.
+If you would like to contact me for a job, please select the following services.
 
-求職に関する情報発信は Wantedly で行っています。御用の際は下記からご連絡ください。
+御用の際は下記からご連絡ください。
 
 * https://www.wantedly.com/id/otoyo
 * https://www.linkedin.com/in/otoyo0122/
