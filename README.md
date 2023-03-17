@@ -4,9 +4,7 @@
 
 I am a software engineer and live in Tokyo, Japan.
 
-I love coding and blog.
-
-That's why I develop a blog software in my spare time.
+I love coding and blogging, that's why I develop blogging software in my spare time.
 
 * https://alpacat.com (Japanese)
 
