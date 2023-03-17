@@ -10,7 +10,7 @@ That's why I develop a blog software in my spare time.
 
 * https://alpacat.com (Japanese)
 
-### Concact
+### Contact
 
 What would you like to ask me?
 
