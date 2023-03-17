@@ -1,20 +1,25 @@
-## About me
+:technologist: `I'm a blog freak`
 
-I am a Software Engineer working in Tokyo.
+### About me
 
-Writing a blog is my favorite. I would appresiate if you take a look my blog (Japanese).
+I am a software engineer and live in Tokyo, Japan.
 
-ソフトウェアエンジニアとして東京で働いています。
+I love coding and blog.
 
-ブログを書くのが好きです。良かったら見てください。
+That's why I develop a blog software in my spare time.
 
-* https://alpacat.com/blog
+* https://alpacat.com (Japanese)
 
-## For Recruiter
+### Concact
 
-If you would like to contact me for a job, please select the following services.
+What would you like to ask me?
 
-御用の際は下記からご連絡ください。
+It would be nice if you contact me with the following way.
 
-* https://www.wantedly.com/id/otoyo
-* https://www.linkedin.com/in/otoyo0122/
+* My products
+  * Create a issue
+* Recruiting
+  * [LinkedIn](https://www.linkedin.com/in/otoyo0122/)
+  * [Wantedly](https://www.wantedly.com/id/otoyo)
+* Others
+  * [Twitter](https://twitter.com/otoyo0122)
