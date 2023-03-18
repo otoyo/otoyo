@@ -12,10 +12,10 @@ I love coding and blogging, that's why I develop blogging software in my spare t
 
 What would you like to ask me?
 
-It would be nice if you contact me with the following way.
+Please feel free to contact me using the following method. Thank you.
 
 * My products
-  * Create a issue
+  * Create an issue in the GitHub repository
 * Recruiting
   * [LinkedIn](https://www.linkedin.com/in/otoyo0122/)
   * [Wantedly](https://www.wantedly.com/id/otoyo)
